@@ -1,0 +1,3 @@
+I use Git daily.
+Git init gives freedom.
+I believe open source is important.
